@@ -12,4 +12,5 @@ Il faut ensuite également importer dans chaque notebook le dataset: https://www
 
 
 
-Le site se lance avec la commande:
+Le site se lance avec la commande: streamlit run app.py
+
