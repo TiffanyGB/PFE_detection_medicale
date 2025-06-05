@@ -22,7 +22,7 @@ Le notebook lié à la segmentation :
 
 Importer le notebook segmentation.ipynb sur kaggle
 
-Importer les fichiers du dossier 'CSV Segmentation' : 
+Importer sur kaggle les fichiers : 
 
 Mask_Mass.ZIP --> et le nommer "masse-mask" sur kaggle
 Database_patients_normalis.csv --> et le nommer "dataset-nih-normalise" sur kaggle
