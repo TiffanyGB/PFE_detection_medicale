@@ -29,7 +29,7 @@ Database_patients_normalis.csv --> et le nommer "dataset-nih-normalise" sur kagg
 Il faut ensuite également importer dans le notebook le dataset: https://www.kaggle.com/datasets/nih-chest-xrays/data
 
 
-
-Le site se lance avec la commande: streamlit run app.py
-Il faut se placer dans Site pour lancer
-
+Lancement du site:
+1. Récupérer les fichiers envoyés par mail et les placer dans Site/modeles
+2. Se placer dans Site et ouvrir le terminal
+3. Le site se lance avec la commande: streamlit run app.py
